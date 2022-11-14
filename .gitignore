@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/.jpb/
+/src/main/resources/liquibase/changelog-master.yml
+/src/main/resources/application.properties
